@@ -306,7 +306,7 @@ class IDSMonitor:
         print(f"\n{Fore.CYAN}{Style.BRIGHT}{'='*70}")
         print("  🛡️  IDS CATCHER - Sistema de Detección de Intrusos v5.1")
         print("="*70)
-        print(f"{Fore.YELLOW}  Autor: Camilo Aros Pérez (@vaahl)")
+        print(f"{Fore.YELLOW}  Autor: @vaahl")
         print(f"  Inicio: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
         print(f"{Fore.CYAN}{'='*70}{Style.RESET_ALL}\n")
     
